@@ -81,7 +81,7 @@ pip install -r requirements.txt
 Запуск приложения осуществляется через терминал или командную строку.
 
 ```bash
-python vk_info.py [user_id] [-o OUTPUT]
+python main.py [user_id] [-o OUTPUT]
 ```
 
 ### Аргументы
@@ -94,13 +94,13 @@ python vk_info.py [user_id] [-o OUTPUT]
 1. **Получить информацию о текущем пользователе и сохранить в `vk_user_info.json`:**
 
    ```bash
-   python vk_info.py
+   python main.py
    ```
 
 2. **Получить информацию о пользователе с ID `123456` и сохранить в `output.json`:**
 
    ```bash
-   python vk_info.py 123456 -o output.json
+   python main.py 123456 -o output.json
    ```
 
 ## Результат
