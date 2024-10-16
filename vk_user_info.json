@@ -1,0 +1,32 @@
+{
+    "user": {
+        "id": 206201111,
+        "first_name": "Павел",
+        "last_name": "Титов",
+        "followers_count": 133
+    },
+    "followers_count": 133,
+    "subscriptions_count": 4,
+    "groups": [
+        {
+            "id": 29346,
+            "name": "Тюменский государственный университет | ТюмГУ",
+            "screen_name": "tyumen.university"
+        },
+        {
+            "id": 171262993,
+            "name": "Тьюторы ТюмГУ",
+            "screen_name": "tutor.utmn"
+        },
+        {
+            "id": 58120520,
+            "name": "Школа компьютерных наук ТюмГУ",
+            "screen_name": "scs_utmn"
+        },
+        {
+            "id": 160466638,
+            "name": "Программа лояльности ТюмГУ «Вместе»",
+            "screen_name": "loyalty_vmeste"
+        }
+    ]
+}
