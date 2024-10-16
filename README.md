@@ -66,7 +66,12 @@ pip install -r requirements.txt
    VK_ACCESS_TOKEN=YOUR_ACCESS_TOKEN
    ```
 
-   **Получение VK Access Token:**
+   **Простой способ получения VK Access Token:**
+
+   - Перейдите на [vkhost](https://vkhost.github.io/) и выберите приложение (admin например)
+   - Скопируйте токен из адресной строки
+
+   **Получение VK Access Token путем создания своего приложения:**
 
    - Перейдите на [VK для разработчиков](https://vk.com/dev) и создайте приложение.
    - Получите токен доступа с правами `friends`, `groups`, `users`.
